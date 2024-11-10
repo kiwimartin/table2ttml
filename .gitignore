@@ -1,0 +1,17 @@
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.xlsx
+*.ttml
+*.xml
